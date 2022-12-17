@@ -1,0 +1,26 @@
+body {
+    background-color: #3f3f3f;
+    direction: ltr;
+}
+
+table {
+    width: 100%;
+    height: 100%;
+    direction: ltr;
+    text-align: center;
+    padding: 10px;
+}
+
+td {
+    border-radius: 10px;
+    background-color: rgb(99, 99, 99);
+    padding: 2%;
+}
+
+.aa {
+    width: 200px;
+}
+
+tr {
+    height: 120px;
+}
